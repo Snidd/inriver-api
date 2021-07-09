@@ -1,1 +1,1 @@
-export const Greeter = (name: string) => `Hello ${name}`;
+import * as inriverApi from './api/inRiverApi';
